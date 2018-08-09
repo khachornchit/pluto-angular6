@@ -1,8 +1,8 @@
-# Pluto Solutions
+# Pluto Solutions Angular 6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
-[](https://raw.githubusercontent.com/plutosolutions/pluto-angular6/master/pluto.png)
+<img src="https://github.com/plutosolutions/pluto-angular6/blob/master/pluto.png" alt="Angular6"/>
 
 ## Development server
 
