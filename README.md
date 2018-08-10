@@ -1,5 +1,7 @@
 # Pluto Solutions Angular 6
 
+We develop web applications with Angular 1/2/4/5/6, Angular CLI, JavaScript, TypeScript, and Webpack. We help clients to develop Angular applications in every versions.Don't hesitate to contact us if we can help you to develop applications.
+
 <img src="https://github.com/plutosolutions/pluto-angular6/blob/master/pluto.png" alt="Angular6"/>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
